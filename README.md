@@ -18,7 +18,7 @@ A learning based model that generate a densely-sampled LF fast and accurately fr
 
 ### Training
 
-Set the training and validation data directory (opts.test_dir) in init_opts.m. Make sure that there are enough memory for loading the whole training and validatoin datasets.
+Set the training and validation data directory (opts.test_dir) in init_opts.m. Download the training and validation datasets to the specofoc directories. Make sure that there are enough memory for loading the whole training and validatoin datasets.
 
     >> train
 
