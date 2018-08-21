@@ -29,10 +29,6 @@ Set the testing data directory (opts.test_dir) in init_opts.m
 
     >> test
 
-
-1 if using GPU, otherwise 0
-Set saveImg to anything will also save the image, omitting this variable will only save the csv result table.
-
 ### Testing Your Own Models
 
     >> test_model(name, depth, gpu, saveImg, epoch, len)
@@ -48,4 +44,4 @@ Set saveImg to anything will also save the image, omitting this variable will on
 
 Henry W. F. Yeung*, Junhui Hou*, Jie Chen , Yuk Ying Chung and Xiaoming Chen
 
-* Equal Contibutions
+- * Equal Contibutions
