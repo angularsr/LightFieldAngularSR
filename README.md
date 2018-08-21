@@ -1,13 +1,13 @@
 ### Code for the ECCV 2018 Paper
 Fast Light Field Reconstruction With Deep Coarse-To-Fine Modeling of Spatial-Angular Clues
 
-### Introduction
+### Description
 
 A learning based model that generate a densely-sampled LF fast and accurately from a sparsely-sampled LF in one forward pass.
 
 ### Requirements and Dependencies
 
-- Matlab
+- MATLAB
 - cuda and cudnn (For GPU. Please modify install.m if not using cudnn)
 
 ### Installation
