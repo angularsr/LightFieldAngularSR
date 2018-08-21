@@ -1,6 +1,6 @@
 ### LightFieldAngularSR
 Fast Light Field Reconstruction With Deep Coarse-To-Fine Modeling of Spatial-Angular Clues
-ECCV 2018
+(ECCV 2018)
 
 ### Introduction
 
