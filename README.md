@@ -36,7 +36,7 @@ Set the testing data directory (opts.test_dir) in init_opts.m
 - model_name    : model name
 - depth         : model depth
 - gpu           : GPU ID
-- saveImg       : Save the SR subviews if true
+- saveImg       : Save the HR SAIs if true
 - epoch         : model epoch to test
 - len           : controls the size of the sub-lightfield, value depends on GPU memory
    
@@ -44,4 +44,4 @@ Set the testing data directory (opts.test_dir) in init_opts.m
 
 Henry W. F. Yeung*, Junhui Hou*, Jie Chen , Yuk Ying Chung and Xiaoming Chen
 
-- \* Equal Contibutions
+\* Equal Contibutions
