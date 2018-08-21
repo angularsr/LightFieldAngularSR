@@ -44,4 +44,4 @@ Set the testing data directory (opts.test_dir) in init_opts.m
 
 Henry W. F. Yeung*, Junhui Hou*, Jie Chen , Yuk Ying Chung and Xiaoming Chen
 
-- * Equal Contibutions
+- \* Equal Contibutions
