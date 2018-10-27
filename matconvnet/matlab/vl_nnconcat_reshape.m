@@ -46,4 +46,5 @@ else
     start = stop ;
   end
   y{1} = reshape(y{1}, [h,w,1,1,60,1]);
+  y{2} = reshape(y{2}, [h,w,2,2]);
 end
