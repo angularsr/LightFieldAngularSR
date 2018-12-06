@@ -9,6 +9,7 @@ A learning based model that generate a densely-sampled LF fast and accurately fr
 
 - MATLAB
 - cuda and cudnn (For GPU. Please modify install.m if not using cudnn)
+- matconvnet (Please use the matconvnet code given in this repository. It contains the 4D convolution code written by us)
 
 ### Installation
 
