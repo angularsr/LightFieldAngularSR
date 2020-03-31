@@ -1,11 +1,11 @@
 ### Code for the ECCV 2018 Paper
 Fast Light Field Reconstruction With Deep Coarse-To-Fine Modeling of Spatial-Angular Clues
 
-# ------------------------------------------------------------------------------------------
-# Please also read our TIP 2018 paper: "Light Field Spatial Super-resolution Using Deep Efficient Spatial-Angular Separable Convolution" with code below
-# Pytorch - https://github.com/jingjin25/LFSSR-SAS-PyTorch
-# Matlab - https://github.com/spatialsr/DeepLightFieldSSR
-# ------------------------------------------------------------------------------------------
+### ------------------------------------------------------------------------------------------
+### Please also read our TIP 2018 paper: "Light Field Spatial Super-resolution Using Deep Efficient Spatial-Angular Separable Convolution" with code below
+### Pytorch - https://github.com/jingjin25/LFSSR-SAS-PyTorch
+### Matlab - https://github.com/spatialsr/DeepLightFieldSSR
+### ------------------------------------------------------------------------------------------
 
 ### Description
 
